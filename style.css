@@ -1,8 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300);
 
-html{
-  font-family:'Open Sans';
-}
 body{
   background: -webkit-linear-gradient(#fff, #000) no-repeat;
+  font-family:'Open Sans';
 }
