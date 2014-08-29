@@ -11,14 +11,17 @@ h1, h2{
   margin: 10px;
 }
 
-.link{
+.link {
   height: 50px;
   width: 300px;
   border: none;
-  border-bottom: 2px solid #fff;
+  color: white;
+  line-height: 50px;
+  text-align: center;
 }
-.purple{
-  background: purple;
+.purple {
+  background: rgb(156, 0, 243);
+  border-bottom: 3px solid rgb(114, 0, 177);
 }
 .pink{
   background: pink;
