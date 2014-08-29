@@ -32,9 +32,19 @@ h1, h2{
   background: rgb(255, 55, 231);
   border-bottom: 3px solid rgb(223, 0, 196);
 }
+.pink:hover {
+  background: rgb(247, 22, 220);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
+}
 .blue {
   background: rgb(14, 123, 241);
   border-bottom: 3px solid rgb(0, 89, 185);
+}
+.blue:hover {
+  background: rgb(10, 109, 218);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
 }
 .align{
   margin: 0 auto;
@@ -45,8 +55,4 @@ a{
   text-decoration: none;
 }
 
-.blue:hover {
-  background: rgb(10, 109, 218);
-  transition: background .4s ease;
-  -webkit-transition: background .4s ease;
-}
+
