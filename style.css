@@ -23,8 +23,9 @@ h1, h2{
   background: rgb(156, 0, 243);
   border-bottom: 3px solid rgb(114, 0, 177);
 }
-.pink{
-  background: pink;
+.pink {
+  background: rgb(255, 55, 231);
+  border-bottom: 3px solid rgb(223, 0, 196);
 }
 .green{
   background: green;
