@@ -12,15 +12,15 @@ h1, h2{
 }
 
 .link {
-  height: 50px;
-  width: 300px;
+  height: 40px;
+  width: 400px;
   border: none;
   color: white;
-  line-height: 50px;
+  line-height: 40px;
   text-align: center;
   margin: 10px;
   padding: 10px;
-  font-size: 35px;
+  font-size: 30px;
 }
 .purple {
   background: rgb(156, 0, 243);
