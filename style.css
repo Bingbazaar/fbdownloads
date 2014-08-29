@@ -10,3 +10,19 @@ h1, h2{
   padding: 10px;
   margin: 10px;
 }
+
+.link{
+  height: 50px;
+  width: 300px;
+  border: none;
+  border-bottom: 2px solid #fff;
+}
+.purple{
+  background: purple;
+}
+.pink{
+  background: pink;
+}
+.green{
+  background: green;
+}
