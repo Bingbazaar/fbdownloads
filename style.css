@@ -70,6 +70,22 @@ h1, h2{
   transition: background .4s ease;
   -webkit-transition: background .4s ease;
 }
+.red {
+  background: rgb(255, 31, 111);
+  border-bottom: 3px solid rgb(230, 0, 82);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
+}
+.red:hover {
+  background: rgb(245, 0, 87);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
+}
+.red:active {
+  background: rgb(221, 0, 78);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
+}
 .align{
   margin: 0 auto;
   width: 400px;
