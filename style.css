@@ -86,6 +86,17 @@ h1, h2{
   transition: background .4s ease;
   -webkit-transition: background .4s ease;
 }
+.green {
+  background: rgb(15, 255, 120);
+  border-bottom: 3px solid rgb(0, 207, 91);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
+}
+.green:active{
+  background: rgb(0, 207, 91);
+  transition: background .4s ease;
+  -webkit-transition: background .4s ease;
+}
 .align{
   margin: 0 auto;
   width: 400px;
