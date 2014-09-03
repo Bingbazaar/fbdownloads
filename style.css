@@ -92,6 +92,9 @@ h1, h2{
   transition: background .4s ease;
   -webkit-transition: background .4s ease;
 }
+.green:hover {
+  background: rgb(0, 150, 65);
+}
 .green:active{
   background: rgb(0, 207, 91);
   transition: background .4s ease;
