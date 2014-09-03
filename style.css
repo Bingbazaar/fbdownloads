@@ -89,12 +89,12 @@ h1, h2{
 }
 .green {
   background: rgb(15, 255, 120);
-  border-bottom: 3px solid rgb(0, 207, 91);
+  border-bottom: 3px solid rgb(0, 185, 81);
   transition: background .4s ease;
   -webkit-transition: background .4s ease;
 }
 .green:hover {
-  background: rgb(0, 150, 65);
+  background: rgb(0, 214, 92);
 }
 .green:active{
   background: rgb(0, 207, 91);
