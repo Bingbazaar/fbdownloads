@@ -3,6 +3,7 @@
 body {
   background: -webkit-linear-gradient(#575757, #272727) no-repeat;
   font-family: 'Source Sans Pro', sans-serif;
+  color: white;
 }
 
 h1, h2{
