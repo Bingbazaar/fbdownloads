@@ -35,6 +35,7 @@ h1, h2{
   font-style: italic;
   text-align: center;
   font-size: 23px;
+  margin: 0;
 }
 
 .link {
